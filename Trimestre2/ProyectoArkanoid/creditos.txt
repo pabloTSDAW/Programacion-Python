@@ -1,0 +1,10 @@
+DESARROLLADOR
+Pablo Prieto Álvarez
+BETA TESTERS
+Fran "Panini+Burn 2€" Roldán
+Manuel "Maracena" Muñoz
+Antonio "Tinder" Tenllado
+Jesús "Escaleras" Estévez 
+Juan "El Cojo" Osuna
+producciones BLAS S.C.A.
+en colaboración con Python - Turtle
